@@ -25,6 +25,7 @@ public class Ex1 {
            }
        }
 
+    
        System.out.printf("G.C.D of %d and %d is %d", n1, n2, gcd);*/
        
 
