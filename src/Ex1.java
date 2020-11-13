@@ -6,11 +6,11 @@ public class Ex1 {
         
        //Reading the input numbers
        Scanner scanner = new Scanner(System.in);
-       System.out.print("Enter first number:");
+       System.out.print("Enter the first nember for max prime GCD:");
        n1 = (int)scanner.nextInt();
        
        
-       System.out.print("Enter second number:");
+       System.out.print("Enter the second number for max prime GCD:");
        n2 = (int)scanner.nextInt();
        
 
@@ -37,7 +37,7 @@ public class Ex1 {
            }
        }
       // printf("gcd of %d and %d is %d", num1, num2, hcf);
-       System.out.printf("G.C.D of %d and %d is %d", n1, n2, hcf);
+       System.out.printf("Computes the GPCD(%d,%d)= %d", n1, n2, hcf);
       // return 0;
    }  
         
