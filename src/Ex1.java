@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Ex1 {
     public static void main(String[] args){
-        int n1, n2,gcd = 1,hcf=1,tmp1,tmp2;
+        int n1, n2,hcf=1,tmp1,tmp2;
         
        //Reading the input numbers
        Scanner scanner = new Scanner(System.in);
