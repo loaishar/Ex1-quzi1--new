@@ -4,7 +4,7 @@ public class Ex1 {
         int n1, n2, hcf = 1, tmp1, tmp2;
         Scanner scanner = new Scanner(System.in);
         if (args.length == 2) {
-            n1 = Integer.parseInt(args[0]);
+            n1 = Integer.parseInt(args[0]);ة
             n2 = Integer.parseInt(args[1]);
         } else {
             System.out.print("Enter the first nember for max prime GCD:");
